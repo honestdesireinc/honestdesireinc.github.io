@@ -12,11 +12,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 31 Dec 2021 15:17:39 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jan 2022 15:02:18 +0900</lastBuildDate>
     
         <atom:link href="https://www.rightscrew.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>2022 01 09test</title>
+        <link>https://www.rightscrew.com/posts/2022-01-09test/</link>
+        <pubDate>Sun, 09 Jan 2022 15:02:18 +0900</pubDate>
+        
+        <atom:modified>Sun, 09 Jan 2022 15:02:18 +0900</atom:modified>
+        <guid>https://www.rightscrew.com/posts/2022-01-09test/</guid>
+        <description>testpage
+githubtest</description>
+        
+        <dc:creator>右ねじ</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>「Python 3 エンジニア認定データ分析試験」に合格してきた</title>
